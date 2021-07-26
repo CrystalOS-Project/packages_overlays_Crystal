@@ -1,11 +1,11 @@
 LOCAL_PATH:= $(call my-dir)
 include $(CLEAR_VARS)
 
-LOCAL_RRO_THEME := LineagePurpleAccent
+LOCAL_RRO_THEME := CrystalPurpleAccent
 LOCAL_PRODUCT_MODULE := true
 LOCAL_CERTIFICATE := platform
 LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res
-LOCAL_PACKAGE_NAME := LineagePurpleAccent
+LOCAL_PACKAGE_NAME := CrystalPurpleAccent
 
 LOCAL_PRIVATE_PLATFORM_APIS := true
 
